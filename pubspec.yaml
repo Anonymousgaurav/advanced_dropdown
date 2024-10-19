@@ -1,7 +1,7 @@
 name: flutter_advanced_drop_down
 description: "Flutter dropdown package"
 version: 0.0.1
-homepage:
+homepage: https://github.com/Anonymousgaurav/advanced_dropdown
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
@@ -10,8 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  get:
-  flutter_svg:
+  get: ^4.6.6
+  flutter_svg: ^2.0.10+1
 
 dev_dependencies:
   flutter_test:
